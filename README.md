@@ -22,3 +22,4 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
   * Dataset Synthèse Vocale : https://huggingface.co/datasets/hasiniaina/malagasy-female-speech-dataset
   * Dataset Correcteur Orthographique/ Vérification à base de règles/ Lemmatisation : https://tenymalagasy.org/bins/rootLists
   * Analyse de Sentiment : https://huggingface.co/datasets/Lo-Renz-O/vaovao_malagasy_sentiment_corpus
+  *  Reconnaissance d'Entités (NER) : https://simplemaps.com/data/mg-cities
