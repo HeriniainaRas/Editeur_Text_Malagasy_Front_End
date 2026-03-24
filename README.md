@@ -15,6 +15,8 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
 
 ## Lien de DEMO :
 
+## Lien Back-End : https://github.com/HeriniainaRas/Editeur_Text_Malagasy_Back_End
+
 ## description des fonctionnalités IA  :
 
 ## Bibliographie : 
