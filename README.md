@@ -13,7 +13,7 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
   * **RANDIMBINIRINA RAKOTOMANANA Yusha Andry Ny Aina        ,n°19** : chargé de la creation des modeles 'Correcteur Orthographique' et 'Reconnaissance d'Entités (NER)'
   * **RASOLONJATOVO Zo Heriniaina                            ,n°23** : chargé de la creation des modeles 'Autocomplétion (Next Word Prediction)' et 'Synthèse Vocale (TTS)'
 
-## Lien de DEMO :
+## Lien de DEMO video: https://drive.google.com/drive/folders/17NiQm8c8vZACuYLdDhBQGDsOXG9I03rs?usp=sharing
 
 ## Lien Front-End de l'application : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
 ## Lien Back-End Back-End de l'application : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
