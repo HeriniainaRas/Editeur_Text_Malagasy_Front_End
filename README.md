@@ -16,7 +16,9 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
 ## Lien de DEMO :
 
 ## Lien Front-End de l'application : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
-## Lien Back-End : https://github.com/HeriniainaRas/Editeur_Text_Malagasy_Back_End
+## Lien Back-End Back-End de l'application : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
+## Lien Back-End modele IA : https://github.com/HeriniainaRas/Editeur_Text_Malagasy_Back_End
+
 
 ## description des fonctionnalités IA  : 
   * **Modèle IA d'autocomplétion et prédiction de mot suivant**: un modèle d'Intelligence Artificielle qui permet de prédire les lettres composantes d'un mot lorsqu'on tape au clavier et ensuite prédire l'éventuel mot suivant du mot correspondant. 
