@@ -16,7 +16,7 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
 ## Lien de DEMO video: https://drive.google.com/drive/folders/17NiQm8c8vZACuYLdDhBQGDsOXG9I03rs?usp=sharing
 
 ## Lien Front-End de l'application : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
-## Lien Back-End Back-End de l'application : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
+## Lien Back-End de l'application : https://github.com/koloinaZafiarison/malagasyApi2026/tree/main
 ## Lien Back-End modele IA : https://github.com/HeriniainaRas/Editeur_Text_Malagasy_Back_End
 
 
