@@ -14,6 +14,7 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
   * **RASOLONJATOVO Zo Heriniaina                            ,n°23** : chargé de la creation des modeles 'Autocomplétion (Next Word Prediction)' et 'Synthèse Vocale (TTS)'
 
 ## Lien de DEMO video version 1: https://drive.google.com/drive/folders/17NiQm8c8vZACuYLdDhBQGDsOXG9I03rs?usp=sharing
+## Lien de DEMO video version 2 (VERSION FINAL) : https://drive.google.com/file/d/178-CGkQva6DxMGYKfOAeNwjKaak3ZaVl/view?usp=sharing
 ## Lien de l'application : https://malagasy-editor.vercel.app/
 
 ----------------------------------------------------------------------------------------------------
