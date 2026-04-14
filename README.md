@@ -14,12 +14,13 @@ Membre de l'équipe **(IGGLIA 5)** et le rôle respectif de chacun:
   * **RASOLONJATOVO Zo Heriniaina                            ,n°23** : chargé de la creation des modeles 'Autocomplétion (Next Word Prediction)' et 'Synthèse Vocale (TTS)'
 
 ## Lien de DEMO video version 1: https://drive.google.com/drive/folders/17NiQm8c8vZACuYLdDhBQGDsOXG9I03rs?usp=sharing
+## Lien de l'application : https://malagasy-editor.vercel.app/
 
-## Lien Front-End de l'application : https://malagasy-editor.vercel.app/
-## Lien source-code Front-End : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
 ----------------------------------------------------------------------------------------------------
-## Lien Back-End de l'application : https://github.com/koloinaZafiarison/malagasyApi2026/tree/main
-## Lien Back-End modele IA : https://github.com/HeriniainaRas/Editeur_Text_Malagasy_Back_End
+
+## Lien code source Front-End : https://github.com/koloinaZafiarison/interfaceMalagasyTextEditor
+## Lien code source Back-End : https://github.com/koloinaZafiarison/malagasyApi2026/tree/main
+## Lien modele IA : https://github.com/HeriniainaRas/Editeur_Text_Malagasy_Back_End
 
 
 ## description des fonctionnalités IA  : 
